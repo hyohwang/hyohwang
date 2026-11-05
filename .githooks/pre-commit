@@ -1,0 +1,3 @@
+#!/bin/sh
+# commit の前に、会社・顧客の情報やキーが入っていないかを確かめる
+exec python "$(git rev-parse --show-toplevel)/tools/check.py"
