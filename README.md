@@ -7,9 +7,9 @@ SAP consultant moving into AI — 6 years building business systems (Java, Oracl
 - SAP consulting (2 years)
 
 **Now**
-- Building development environments and writing setup guides (VS Code, Git, Python, Node.js)
-- Automating work with AI (Claude Code: skills, sub-agents)
-- Prototyping UI for business applications
+- Defining requirements and business processes for an AI-assisted customer inquiry system, and prototyping its UI (proposal stage)
+- Standardizing the team's development environment: setup guide site built from Markdown with Python, plus rules for files and records
+- Automating daily work with AI agents (Claude Code: skills, sub-agents), such as drafting documents and summarizing chats
 
 ## Featured
 - [TIL](https://github.com/hyohwang/til) — short notes on what I learn
@@ -27,9 +27,9 @@ SAP コンサルタントから AI の分野へ — 業務システムの開発 
 - SAP のコンサルティング（2年）
 
 **今の取り組み**
-- 開発環境の構築と手順書の作成（VS Code、Git、Python、Node.js）
-- AI を使った作業の自動化（Claude Code のスキル・サブエージェント）
-- 業務アプリの UI の試作
+- AI を使った顧客の問い合わせ管理の仕組みについて、要件と業務の流れを整理し、画面を試作（提案の段階）
+- チームの開発環境の標準化：Markdown から Python で作る手順書のサイト、ファイルと記録の管理のルール
+- AI エージェント（Claude Code のスキル・サブエージェント）による日々の作業の自動化（文書の下書き、チャットの要約など）
 
 **主な記録**：[TIL](https://github.com/hyohwang/til)
 
@@ -46,9 +46,9 @@ AI 분야로 영역을 넓히고 있는 SAP 컨설턴트 — 업무 시스템 �
 - SAP 컨설팅 (2년)
 
 **현재 하고 있는 일**
-- 개발 환경 구축과 설치 가이드 작성 (VS Code, Git, Python, Node.js)
-- AI를 활용한 업무 자동화 (Claude Code의 스킬, 서브 에이전트)
-- 업무용 애플리케이션의 UI 프로토타입
+- AI를 활용한 고객 문의 관리 시스템의 요구사항과 업무 흐름을 정리하고 화면을 프로토타입으로 제작 (제안 단계)
+- 팀 개발 환경의 표준화: Markdown을 Python으로 변환해 만드는 설치 가이드 사이트, 파일과 기록 관리 규칙
+- AI 에이전트(Claude Code의 스킬, 서브 에이전트)를 활용한 일상 업무 자동화 (문서 초안 작성, 채팅 요약 등)
 
 **주요 기록**: [TIL](https://github.com/hyohwang/til)
 
